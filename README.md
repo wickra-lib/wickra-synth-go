@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/wickra-lib/wickra-synth/actions/workflows/ci.yml/badge.svg)](https://github.com/wickra-lib/wickra-synth/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wickra-lib/wickra-synth/branch/main/graph/badge.svg)](https://codecov.io/gh/wickra-lib/wickra-synth)
-[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-synth-go)
+[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-synth/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-synth-go)
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT_OR_Apache--2.0-blue)](https://github.com/wickra-lib/wickra-synth#license)
 
 **Deterministic synthetic-microstructure generation for Go, over the Wickra C ABI hub via cgo.**
